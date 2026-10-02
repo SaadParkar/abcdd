@@ -1,0 +1,6 @@
+{
+  "name": "The Caesar Cipher Wheel",
+  "description": "An interactive Roman history exhibit and Caesar cipher wheel simulator.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
